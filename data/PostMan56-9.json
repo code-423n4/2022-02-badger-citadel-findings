@@ -1,0 +1,9 @@
+{
+  "contest": 84,
+  "handle": "PostMan56",
+  "address": "0x714Af4c78135Ec866a3cd34755BDB59cdb9b7246",
+  "risk": "G",
+  "title": "Gas optimization in function 'getTokenInLimitLeft' and use of uint256 vs uint8",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/9"
+}
