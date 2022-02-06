@@ -1,0 +1,9 @@
+{
+  "contest": 84,
+  "handle": "floppydisk",
+  "address": "0xcc4169f80DF8873F686cA377A5BeB61c012f0115",
+  "risk": "1",
+  "title": "QA Report",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/34"
+}
