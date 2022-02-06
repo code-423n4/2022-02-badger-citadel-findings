@@ -1,0 +1,9 @@
+{
+  "contest": 84,
+  "handle": "ShippooorDAO",
+  "address": "0x6ba679878C7a4750770327378fbf1926E243188d",
+  "risk": "2",
+  "title": "Incorrect balance when claiming tokens",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/86"
+}
