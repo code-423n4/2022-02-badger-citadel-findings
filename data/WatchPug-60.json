@@ -1,0 +1,9 @@
+{
+  "contest": 84,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H2] Funds can be frozen when critical key holders lose access to their keys",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/60"
+}
