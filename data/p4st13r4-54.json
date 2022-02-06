@@ -1,0 +1,9 @@
+{
+  "contest": 84,
+  "handle": "p4st13r4",
+  "address": "0xEFAD0017ee6bcD0F38a8e559761493aA5C433FEA",
+  "risk": "3",
+  "title": "Sale recipient can be changed mid-sale",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/54"
+}
