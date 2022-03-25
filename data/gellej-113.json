@@ -1,0 +1,9 @@
+{
+  "contest": 84,
+  "handle": "gellej",
+  "address": "0xF9a50271150FAFF01c6a702E0BB79C2412eAcD25",
+  "risk": "2",
+  "title": "Funds are transferred to saleRecipient before settlement",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/113"
+}
