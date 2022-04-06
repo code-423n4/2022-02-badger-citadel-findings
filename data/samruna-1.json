@@ -2,7 +2,7 @@
   "contest": 84,
   "handle": "samruna",
   "address": "0x071158363a80220cC3Cd2168e0b3ecFa7cDe6107",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA report for low risk finndigs",
   "issueId": 1,
   "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/1"
