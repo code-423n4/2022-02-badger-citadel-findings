@@ -2,7 +2,7 @@
   "contest": 84,
   "handle": "Omik",
   "address": "0x30fC9D86149c9241FDd5450748F8CB6734E1fdeF",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 83,
   "issueUrl": "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues/83"
