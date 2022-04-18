@@ -1,12 +1,6 @@
 Handle:
 IllIllI
 
-Email:
-IllIllI000@protonmail.com
-
-Polygon address:
-0xCC6B0a35481EA40b60780B7c0294c6c29061038f
-
 Risk rating:
 Gas Optimizations
 
