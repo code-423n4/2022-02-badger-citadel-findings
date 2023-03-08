@@ -1,3 +1,11 @@
+---
+sponsor: "BadgerDAO"
+slug: "2022-02-badger-citadel"
+date: "2022-04-22"
+title: "Badger Citadel contest"
+findings: "https://github.com/code-423n4/2022-02-badger-citadel-findings/issues"
+contest: 84
+---
 
 # Overview
 
